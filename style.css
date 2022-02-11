@@ -1,0 +1,23 @@
+header{
+  background: yellow;
+  text-align: center;
+  color: rgb(146, 55, 221);
+  font-family: Georgia;
+  font-size: 25px;
+  
+}
+body{
+  background: rgba(147, 189, 70, 0.39);
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
+.asd{
+  text-align:  center;
+}
+footer{
+  background: yellow;
+  text-align: center;
+  color: rgb(146, 55, 221);
+  font-family: Georgia;
+}
